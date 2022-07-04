@@ -1,1 +1,1 @@
-# Email-Spam-Classification-
+The code above is for clasifying wether an email is Spam or Ham.This is a typical binary classification probelm. We have used all the classification algorithm. We pre precoessed the data using NLP techniques and then later applied all the classification algorithms and found that most od the algorithms give good accuracy except for KNN Which gave an accuracy of 87%
